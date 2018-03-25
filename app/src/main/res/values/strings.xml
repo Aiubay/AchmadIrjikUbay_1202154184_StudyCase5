@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACHMADIRJIKUBAY_1202154184_MODUL5</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="colorArray">
+        <item>Putih</item>
+        <item>Merah</item>
+        <item>Biru</item>
+    </string-array>
+</resources>
